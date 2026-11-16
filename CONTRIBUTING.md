@@ -7,7 +7,7 @@
 
 | 組 | 誰 | 範圍 |
 |---|---|---|
-| 核心組 | z1nnz（擁有者，最後決定）與 AI 助手 | 整合、資料表與 API 契約、審查與合併 |
+| 核心組 | z1nnz（擁有者，最後決定） | 整合、資料表與 API 契約、審查與合併 |
 | A | Johnnnny0823 | 依分配的工作包（原始程式作者） |
 | B | joshsu54 | 依分配的工作包 |
 | C | RoyLin0905 | 依分配的工作包 |
@@ -53,7 +53,7 @@ py -3.12 -m venv .venv
 ```
 
 - 類型：`feature`（新功能）、`fix`（修正已合併的內容）、`docs`（文件）、`test`（測試）
-- 誰：`a`、`b`、`c`、`core`、`claude`、`codex`
+- 誰：`a`、`b`、`c`、`core`（用 Claude Code 或 Codex 做的工作，也用你自己的代號）
 - 例子：`feature/b-s04-today-list`、`fix/a-s02-roc-date`
 
 ```powershell
